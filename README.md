@@ -32,3 +32,5 @@
 
 
 # UPDATE in cur
+# UPDATE in cur1
+# UPDATE in cur2
