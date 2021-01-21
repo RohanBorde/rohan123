@@ -7,8 +7,3 @@
 # SEC BRANCH first commit
 #SEC Branch sec commit
 
-
-# THIRD BRANCH 1
-
-# THIRD BRANCH 2
-
